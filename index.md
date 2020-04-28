@@ -16,7 +16,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <title>Zhiyi Pan - homepage</title>
+    <title>冷汉超-个人主页</title>
     <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/typo.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -75,19 +75,20 @@
                     <img class="avatar" src="assets/images/avatar.jpg" onload="loading()">
                 </section>
 
-                <h1 class="name">Zhiyi Pan</h1>
+                <h1 class="name">冷汉超</h1>
                 <h4 class="info-job">研究方向：计算机视觉</h4>
 
             </section>
 
-            <!-- Scholar Links 
+            <!-- 基本信息 -->
             <section class="profile info-unit">
                 <h2>
-                    <i class="fa fa-user" aria-hidden="true"></i>Scholar Links</h2>
+                    <i class="fa fa-user" aria-hidden="true"></i>基本信息</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <a href="https://github.com/panzhiyi" target="_blank">GitHub</a>
+                        <label>性别</label>
+                        <span>男</span>
                     </li>
                     <li>
                         <label>年龄</label>
@@ -99,30 +100,33 @@
                     </li>
                 </ul>
             </section>
-            -->
 
-            <!-- Scholar Links -->
+            <!-- 联系方式 -->
             <section class="contact info-unit">
                 <h2>
-                    <i class="fa fa-phone" aria-hidden="true"></i>Scholar Links</h2>
+                    <i class="fa fa-phone" aria-hidden="true"></i>联系方式</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <label>GitHub</label>
-                        <a href="https://github.com/panzhiyi" target="_blank">GitHub</a>
+                        <label>手机</label>
+                        <a href="tel:17554203538" target="_blank">175-5420-3538</a>
                     </li>
                     <li>
-                        <label>Google Scholar</label>
-                        <a href="https://scholar.google.com/citations?hl=en&user=Mdtik3oAAAAJ" target="_blank">Google Scholar</a>
+                        <label>邮箱</label>
+                        <a href="mailto:lhc3538@gmail.com" target="_blank">lhc3538@gmail.com</a>
                     </li>
                     <li>
-                        <label>Email</label>
-                        <a href="mailto:panzhiyi@mail.sdu.edu.cn" target="_blank">Email</a>
+                        <label>博客</label>
+                        <a href="https://blog.csdn.net/lell3538" target="_blank">blog.csdn.net/lell3538</a>
+                    </li>
+                    <li>
+                        <label>Github</label>
+                        <a href="https://github.com/lhc3538" target="_blank">github.com/lhc3538</a>
                     </li>
                 </ul>
             </section>
 
-            <!-- 技术栈 
+            <!-- 技术栈 -->
             <div class="stack info-unit">
                     <h2><i class="fa fa-code" aria-hidden="true"></i>技术栈</h2>
                     <hr/>
@@ -154,7 +158,6 @@
                     </ul>
                 </div>
         </section>
-        -->
 
         <section class="main">
 
@@ -350,18 +353,18 @@
 
 
     <footer class="footer">
-        <p>© 2018 Last update:
-            <time>Mar 19, 2020</time>.</p>
+        <p>© 2018 Leon.文档最后更新时间为
+            <time>2018年012月16日</time>.</p>
     </footer>
 
     <!-- 侧栏 -->
     <aside>
         <ul>
             <li>
-                <a href="https://github.com/lhc3538" target="_blank">CV</a>
+                <a href="https://github.com/lhc3538" target="_blank">源代码</a>
             </li>
             <li>
-                <a href="https://blog.csdn.net/lell3538" target="_blank">中文版本</a>
+                <a href="https://blog.csdn.net/lell3538" target="_blank">Blog</a>
             </li>
         </ul>
     </aside>
