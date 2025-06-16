@@ -93,7 +93,7 @@ main:
     image: ./assets/img/ICCV2021.png
 
   - title: "Bi-directional Attention for Joint Instance and Semantic Segmentation in Point Clouds"
-    authors: Guangnan Wu, <strong>Zhiyi Pan</strong>, Peng Jiang and Changhe Tu
+    authors: Guangnan Wu, <strong>Zhiyi Pan</strong>, Peng Jiang* and Changhe Tu*
     conference_short: ACCV
     conference: Asian Conference on Computer Vision, 2020
     pdf: 
