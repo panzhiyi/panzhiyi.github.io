@@ -1,4 +1,4 @@
-# Ruonan Zhang's Homepage
+# Zhiyi Pan's Homepage
 
 This is my personal homepage repository.
 
