@@ -98,7 +98,7 @@ main:
     conference: Asian Conference on Computer Vision, 2020
     pdf: 
     Paper: https://openaccess.thecvf.com/content/ACCV2020/html/Wu_Bi-Directional_Attention_for_Joint_Instance_and_Semantic_Segmentation_in_Point_ACCV_2020_paper.html
-    code: 
+    code: https://github.com/pumpkinnan/BAN
     page: 
     bibtex: 
     notes: 
