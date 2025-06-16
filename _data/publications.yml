@@ -1,0 +1,119 @@
+main:
+  - title: "Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations"
+    authors: <strong>Zhiyi Pan</strong>, Nan Zhang, Wei Gao*, Shan Liu and Ge Li
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2025
+    page:
+    pdf: 
+    image: ./assets/img/AAAI2025.png
+    Paper: https://ojs.aaai.org/index.php/AAAI/article/view/32680
+    code: https://github.com/panzhiyi/AADNet
+    notes: 
+
+  - title: "Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation"
+    authors: <strong>Zhiyi Pan</strong>, Wei Gao, Shan Liu and Ge Li*
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2024
+    page: 
+    pdf: 
+    Paper: https://proceedings.neurips.cc/paper_files/paper/2024/hash/38d6af46cca4ce1f7d699bf11078cb84-Abstract-Conference.html
+    code: https://github.com/panzhiyi/DGNet
+    notes: 
+    image: ./assets/img/NeurIPS2024.png
+ 
+  - title: "Category-agnostic Semantic Edge Detection by Measuring Neural Representation Randomness"
+    authors: <strong>Zhiyi Pan</strong>, Peng Jiang*, Qiong Zeng, Ge Li and Changhe Tu
+    conference_short: PR
+    conference: Pattern Recognition, 2024
+    page:
+    pdf: 
+    image: ./assets/img/PR2024.png
+    Paper: https://www.sciencedirect.com/science/article/pii/S0031320324005715
+    code: https://github.com/panzhiyi/MNRR
+    notes: 
+
+  - title: "Epcontrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding"
+    authors: <strong>Zhiyi Pan</strong>, Guoqing Liu, Wei Gao* and Thomas H. Li
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia & Expo, 2024
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/abstract/document/10687606
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/ICME2024.png
+
+  - title: "CC4S: Encouraging Certainty and Consistency in Scribble-supervised Semantic Segmentation"
+    authors: <strong>Zhiyi Pan</strong>, Haochen Sun, Peng Jiang*, Ge Li, Changhe Tu and Haibin Ling
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/abstract/document/10559264
+    code: https://github.com/panzhiyi/CC4S
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/TPAMI2024.png
+
+  - title: "Less Is More: Label Recommendation for Weakly Supervised Point Cloud Semantic Segmentation"
+    authors: <strong>Zhiyi Pan</strong>, Zhang Nan, Wei Gao*, Shan Liu and Ge Li
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2024
+    pdf: 
+    Paper: https://ojs.aaai.org/index.php/AAAI/article/view/28237
+    code: https://github.com/panzhiyi/LessIsMore
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/AAAI2024.png
+
+  - title: "Improving Graph Representation for Point Cloud Segmentation via Attentive Filtering"
+    authors: Nan Zhang, <strong>Zhiyi Pan</strong>, Thomas H. Li, Wei Gao* and Ge Li
+    conference_short: CVPR
+    conference: IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024
+    pdf: 
+    Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Improving_Graph_Representation_for_Point_Cloud_Segmentation_via_Attentive_Filtering_CVPR_2023_paper.html
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/CVPR2023.png
+   
+  - title: "Scribble-supervised Semantic Segmentation by Uncertainty Reduction on Neural Representation and Self-supervision on Neural Eigenspace"
+    authors: <strong>Zhiyi Pan</strong>, Peng Jiang*, Yunhan Wang and Anthony G. Cohn
+    conference_short: ICCV
+    conference: International Conference on Computer Vision, 2021
+    pdf: 
+    Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Pan_Scribble-Supervised_Semantic_Segmentation_by_Uncertainty_Reduction_on_Neural_Representation_and_ICCV_2021_paper.html
+    code: https://github.com/panzhiyi/URSS
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/ICCV2021.png
+
+  - title: "Bi-directional Attention for Joint Instance and Semantic Segmentation in Point Clouds"
+    authors: Guangnan Wu, <strong>Zhiyi Pan</strong>, Peng Jiang and Changhe Tu
+    conference_short: ACCV
+    conference: Asian Conference on Computer Vision, 2020
+    pdf: 
+    Paper: https://openaccess.thecvf.com/content/ACCV2020/html/Wu_Bi-Directional_Attention_for_Joint_Instance_and_Semantic_Segmentation_in_Point_ACCV_2020_paper.html
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/ACCV2020.png
+
+  - title: "Super Diffusion for Salient Object Detection"
+    authors: Peng Jiang, <strong>Zhiyi Pan</strong>, Nuno Vasconcelos, Baoquan Chen and Jingliang Peng*
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing, 2019
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/abstract/document/8911340
+    code: https://github.com/panzhiyi/SuperDiffusion
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/TIP2019.png
+
+
