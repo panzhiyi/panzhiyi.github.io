@@ -71,7 +71,7 @@ main:
   - title: "Improving Graph Representation for Point Cloud Segmentation via Attentive Filtering"
     authors: Nan Zhang, <strong>Zhiyi Pan</strong>, Thomas H. Li, Wei Gao* and Ge Li
     conference_short: CVPR
-    conference: IEEE/CVF Computer Vision and Pattern Recognition Conference, 2024
+    conference: IEEE/CVF Computer Vision and Pattern Recognition Conference, 2023
     pdf: 
     Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Improving_Graph_Representation_for_Point_Cloud_Segmentation_via_Attentive_Filtering_CVPR_2023_paper.html
     code: 
