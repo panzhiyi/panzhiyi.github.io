@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-**Tenure-Track Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China
+I am a **Tenure-Track Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China. I joined the [Visual Intelligence Laboratory](http://www.tjuvil.net/) in July 2025, led by Prof. [Wei Feng](https://cic.tju.edu.cn/faculty/fengwei/index.html).
 
 ## Recruit Students
 
@@ -12,9 +12,9 @@ layout: homepage
 
 ## Education
 
-- **Ph.D.** &nbsp;&nbsp;Sep. 2021 ~ July 2025, School of Computer Science, Peking University, Beijing, China. Supervised by [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm).
+- **Ph.D.** &nbsp;&nbsp;Sep. 2021 ~ July 2025, School of Computer Science, Peking University, Beijing, China. Supervised by Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm).
 
-- **M.S.** &nbsp;&nbsp;Sep. 2018 ~ July 2021, School of Computer Science and Technology, Shandong University, Qingdao, China. Supervised by [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html) and [Yangyan Li](https://yangyan.li/).
+- **M.S.** &nbsp;&nbsp;Sep. 2018 ~ July 2021, School of Computer Science and Technology, Shandong University, Qingdao, China. Supervised by Prof. [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html) and Prof. [Yangyan Li](https://yangyan.li/).
 
 - **B.S.** &nbsp;&nbsp;Sep. 2014 ~ July 2018, Computer Science and Technology from [Taishan College](https://www.tsxt.sdu.edu.cn/), Shandong University, Jinan, China.
 
