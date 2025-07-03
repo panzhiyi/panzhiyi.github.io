@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-**Associate Researcher** in College of Intelligence and Computing, Tianjin University, Tianjin, China
+**Tenure-Track Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China
 
 ## Education
 
