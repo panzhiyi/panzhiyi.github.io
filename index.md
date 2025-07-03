@@ -6,6 +6,10 @@ layout: homepage
 
 **Tenure-Track Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China
 
+## Recruit Students
+
+长期招收硕士研究生和本科生，欢迎对三维视觉和多模态学习感兴趣的同学与我联系！（zhypan@tju.edu.cn）
+
 ## Education
 
 - **Ph.D.** &nbsp;&nbsp;Sep. 2021 ~ July 2025, School of Computer Science, Peking University, Beijing, China. Supervised by [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm).
