@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a **Tenure-Track Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China. I joined the [Visual Intelligence Laboratory](http://www.tjuvil.net/) in July 2025, led by Prof. [Wei Feng](https://cic.tju.edu.cn/faculty/fengwei/index.html).
+I am a **Pre-Tenure Associate Professor** in College of Intelligence and Computing, Tianjin University, Tianjin, China. I joined the [Visual Intelligence Laboratory](http://www.tjuvil.net/) in July 2025, led by Prof. [Wei Feng](https://cic.tju.edu.cn/faculty/fengwei/index.html).
 
 ## Recruit Students
 
