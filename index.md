@@ -40,7 +40,8 @@ I am a **Pre-Tenure Associate Professor** in College of Intelligence and Computi
 
 ## Academic Activities
 
-Paper Reviewer: IEEE TCSVT, IEEE TMM, PR, ICLR, CVPR, NeurIPS
+- Program Chair: AAAI 2026
+- Paper Reviewer: IEEE TCSVT, IEEE TMM, PR, ICLR, CVPR, NeurIPS
 
 ## Selected Honors and Awards
 
