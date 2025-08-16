@@ -1,4 +1,26 @@
 main:
+  - title: "DreamPBR: Text-driven High-Resolution SVBRDF Generation with Multimodal Guidance"
+    authors: Linxuan Xin, Zheng Zhang, <strong>Zhiyi Pan</strong>, Jinfu Wei, Duan Gao*, Wei Gao*
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia & Expo, 2025
+    page:
+    pdf: 
+    image: ./assets/img/ICME2025.png
+    Paper: 
+    code: 
+    notes: 
+
+  - title: "Improving Back-projection Accuracy for Learning Indoor Point Cloud Semantic Segmentation with Fewer Image Annotations"
+    authors: Peng Jiang, Haochen Sun, <strong>Zhiyi Pan</strong>, Jinming Cao, Roger Zimmermann, Changhe Tu*
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia, 2025
+    page:
+    pdf: 
+    image: ./assets/img/TMM2025.png
+    Paper: https://ieeexplore.ieee.org/document/11125526
+    code: https://github.com/sun1233217T/BPPC
+    notes: 
+
   - title: "Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations"
     authors: <strong>Zhiyi Pan</strong>, Nan Zhang, Wei Gao*, Shan Liu and Ge Li
     conference_short: AAAI
