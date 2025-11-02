@@ -6,7 +6,7 @@ main:
     page:
     pdf: 
     image: ./assets/img/ICME2025.png
-    Paper: 
+    Paper: https://ieeexplore.ieee.org/document/11210202/
     code: 
     notes: 
 
