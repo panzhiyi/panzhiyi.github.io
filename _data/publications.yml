@@ -10,10 +10,10 @@ main:
     code: 
     notes: 
 
-  - title: "Improving Back-projection Accuracy for Learning Indoor Point Cloud Semantic Segmentation with Fewer Image Annotations  <font color="#FF0000">CCF A</font>"
+  - title: "Improving Back-projection Accuracy for Learning Indoor Point Cloud Semantic Segmentation with Fewer Image Annotations"
     authors: Peng Jiang, Haochen Sun, <strong>Zhiyi Pan</strong>, Jinming Cao, Roger Zimmermann, Changhe Tu*
     conference_short: TMM
-    conference: IEEE Transactions on Multimedia, 2025
+    conference: IEEE Transactions on Multimedia, 2025 <font color="#FF0000">CCF A</font>
     page:
     pdf: 
     image: ./assets/img/TMM2025.png
